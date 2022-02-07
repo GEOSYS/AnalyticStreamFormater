@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Geosys.NotificationDataExporter.WebHook.Domain.JsonConverters
+namespace AnalyticStreamFormater.Domain.JsonConverters
 {
     public class JsonObjectConverter : JsonConverter<object>
     {

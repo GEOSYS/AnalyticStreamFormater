@@ -1,4 +1,4 @@
-﻿namespace Geosys.NotificationDataExporter.WebHook.Domain.Services
+﻿namespace AnalyticStreamFormater.Domain.Services
 {
     public interface IMapProductClient
     {

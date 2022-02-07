@@ -1,9 +1,9 @@
-﻿using Geosys.NotificationDataExporter.WebHook.Domain.Models;
-using Geosys.NotificationDataExporter.WebHook.Domain.Services;
+﻿using AnalyticStreamFormater.Domain.Models;
+using AnalyticStreamFormater.Domain.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Geosys.NotificationDataExporter.WebHook.API.AzureDemo.Controllers
+namespace AnalyticStreamFormater.Domain.Controllers
 {
     [ApiController]
     [Route("analytics")]

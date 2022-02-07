@@ -1,5 +1,5 @@
 ﻿using AnalyticStreamFormater.Configuration;
-using Geosys.NotificationDataExporter.WebHook.Domain.Services;
+using AnalyticStreamFormater.Domain.Services;
 using Microsoft.Extensions.Options;
 using Microsoft.Rest;
 using Newtonsoft.Json.Linq;

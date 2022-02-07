@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 
-namespace Geosys.NotificationDataExporter.WebHook.Domain.Models.Validators
+namespace AnalyticStreamFormater.Domain.Models.Validators
 {
 	public class AnalyticsListValidator : AbstractValidator<List<AnalyticsDto>>
 	{

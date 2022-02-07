@@ -1,4 +1,4 @@
-﻿namespace Geosys.NotificationDataExporter.WebHook.Domain.Models
+﻿namespace AnalyticStreamFormater.Domain.Models
 {
     public class AnalyticsDto
     {

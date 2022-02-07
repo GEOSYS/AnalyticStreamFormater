@@ -1,8 +1,7 @@
-﻿using System.Text;
-using AnalyticStreamFormater.AzureBlobStorage;
+﻿using AnalyticStreamFormater.AzureBlobStorage;
+using AnalyticStreamFormater.Domain.Models;
+using AnalyticStreamFormater.Domain.Services;
 using AnalyticStreamFormater.Serialization;
-using Geosys.NotificationDataExporter.WebHook.Domain.Models;
-using Geosys.NotificationDataExporter.WebHook.Domain.Services;
 
 namespace AnalyticStreamFormater.Services
 {

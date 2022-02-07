@@ -1,6 +1,6 @@
 ﻿using System.Net.Http.Headers;
 using AnalyticStreamFormater.Configuration;
-using Geosys.NotificationDataExporter.WebHook.Domain.Services;
+using AnalyticStreamFormater.Domain.Services;
 using Microsoft.Extensions.Options;
 
 namespace AnalyticStreamFormater.Clients

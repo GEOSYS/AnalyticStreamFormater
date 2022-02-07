@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Geosys.NotificationDataExporter.WebHook.Domain\Geosys.NotificationDataExporter.WebHook.Domain.csproj" />
+    <ProjectReference Include="..\AnalyticStreamFormater.Domain\AnalyticStreamFormater.Domain.csproj" />
   </ItemGroup>
 
 </Project>

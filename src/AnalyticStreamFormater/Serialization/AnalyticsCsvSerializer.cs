@@ -1,9 +1,9 @@
 ﻿using System.Globalization;
 using System.Text;
+using AnalyticStreamFormater.Domain.Models;
 using CsvHelper;
 using CsvHelper.Configuration;
 using CsvHelper.TypeConversion;
-using Geosys.NotificationDataExporter.WebHook.Domain.Models;
 
 namespace AnalyticStreamFormater.Serialization
 {

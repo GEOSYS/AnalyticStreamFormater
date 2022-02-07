@@ -1,13 +1,13 @@
 using System.Text.Json.Serialization;
 using AnalyticStreamFormater.Clients;
 using AnalyticStreamFormater.Configuration;
+using AnalyticStreamFormater.Domain.JsonConverters;
+using AnalyticStreamFormater.Domain.Models;
+using AnalyticStreamFormater.Domain.Models.Validators;
+using AnalyticStreamFormater.Domain.Services;
 using AnalyticStreamFormater.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using Geosys.NotificationDataExporter.WebHook.Domain.JsonConverters;
-using Geosys.NotificationDataExporter.WebHook.Domain.Models;
-using Geosys.NotificationDataExporter.WebHook.Domain.Models.Validators;
-using Geosys.NotificationDataExporter.WebHook.Domain.Services;
 using Microsoft.AspNetCore.Http.Json;
 
 var builder = WebApplication.CreateBuilder(args);
