@@ -196,6 +196,8 @@ Each analytic will be published in a storage acccount configured. Each NDVI map 
   </a>
 </p>
 
+The naming convention is <GeosysSeasonFieldID-yyyy-mm-dd-<imageID>.zip
+  
 ### Customization
 If you want to manage the integration of notification inside your platform, manage its persistence, you can update or implement your own version of the IAnalyticsService.
 
@@ -214,7 +216,6 @@ The Analytic stream Formatter can be used to initalize innovation project field 
 
 ### Maintain real time field analytic datase
 The Analytic stream Formatter is the perfect app to create you own field level map pipeline allowing you to receive fresh and direclty usable field level analytic as they become available.
-
 
 <!-- RESOURCES -->
 ## Resources 
