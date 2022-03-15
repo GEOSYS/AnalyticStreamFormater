@@ -16,7 +16,7 @@
   <h1 align="center">Analytic Stream Formater</h3>
 
   <p align="center">
-    Enable the processing of event coming <geosys/> to get, format and publish analytic on a storage account.
+    Enable the processing of event coming from '<geosys/> to get, format and publish analytic on an Azure storage account.
     <br />
     <a href=https://earthdailyagro.com/><strong>Who we are</strong></a>
     <br />
@@ -85,7 +85,7 @@ We have a team of experts around the world that understand local crops and ag in
 
 We have established a developer community to provide you with plug-ins and integrations to be able to discover, request and use aggregate imagery products based on Landsat, Sentinel, Modis and many other open and commercial satellite sensors.
 
-The QGIS plugin project aims to provide an easy and ready to use connector allowign any QGIS users to quickly experience Earthdaily Agro capabilities.
+The current project aims to provide an easy and ready to use event consumer and analytic formater allowing customer to quickly initializze and maintain up to date field level analytic derived from satelite imagery.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
