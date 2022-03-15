@@ -16,7 +16,7 @@
   <h1 align="center">Analytic Stream Formater</h3>
 
   <p align="center">
-    Enable the processing of event coming from &ltgeosys/&gt to get, format and publish analytic on an Azure storage account.
+    Enable the processing of event coming from &ltgeosys/&gt to fetch, format and publish analytic on an Azure storage account.
     <br />
     <a href=https://earthdailyagro.com/><strong>Who we are</strong></a>
     <br />
