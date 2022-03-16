@@ -39,8 +39,9 @@
 [![languages][NETcore-shield]][NETcore-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-<!--[![CITest][CITest-shield]][CITest-url]-->
-  <!--[![languages][language-python-shiedl]][]-->
+
+ <!--[![CITest][CITest-shield]][CITest-url]-->
+<!--[![languages][language-python-shiedl]][]-->
 </div>
 
 <!--[![Stargazers][GitStars-shield]][GitStars-url]-->
