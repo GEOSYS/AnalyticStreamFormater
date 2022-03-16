@@ -96,7 +96,7 @@ The current project aims to provide an easy and ready to use event consumer and 
 ### Prerequisites
 
 Use of this project requires valids credentials from the '<geosys/> platform . If you need to get trial access, please register [here](https://earthdailyagro.com/geosys-api/#get-started).
-This project is using .Net Core XXX
+This project is using .Net Core 6.0
 
 ### Installation
 To start replicate curent project and launch it using your code editor.
@@ -112,9 +112,9 @@ Update teh appseettings file:
    "IdentityServer": { 
     "Url": "IdentityServerUrl", -> On veut target la préprod ou/et la prod ??? 
     "TokenEndPoint": "connect/token", 
-    "UserLogin": "myuser", <- Set the user login get from your trial access here "UserPassword": 
+    "UserLogin": "myuser", <- Set the user login get from your trial access 
     "mypassword", <- Set the password get from your trial access here 
-    "ClientId": "myclientid", <- Set the clientId get from your trial access here "ClientSecret": 
+    "ClientId": "myclientid", <- Set the clientId get from your trial access here
     "myclientsecret", <- Set the clientSecret get from your trial access here 
     "Scope": "openid offline_access", "GrantType": "password" 
     }, 
