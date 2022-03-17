@@ -81,7 +81,7 @@ EarthDaily Agro is the agricultural analysis division of EartDaily Analytics. Le
   </a>
 </p>
 
-Throught our <geosys/> platform, we make geospatial analytics easily accessible for you to be browsed or analyzed, within our cloud or within your own environment. We provide developers and data scientists both flexibility and extensibility with analytic ready data and digital agriculture ready development blocks. We empower your team to enrich your systems with information at the field, regional or continent level via our API or Apps.
+Throught our &ltgeosys/&gt platform, we make geospatial analytics easily accessible for you to be browsed or analyzed, within our cloud or within your own environment. We provide developers and data scientists both flexibility and extensibility with analytic ready data and digital agriculture ready development blocks. We empower your team to enrich your systems with information at the field, regional or continent level via our API or Apps.
 
 We have a team of experts around the world that understand local crops and ag industry, as well as advanced analytics to support your business.
 
@@ -97,7 +97,7 @@ The current project aims to provide an easy and ready to use event consumer and 
 
 ### Prerequisites
 
-Use of this project requires valids credentials from the '<geosys/> platform . If you need to get trial access, please register [here](https://earthdailyagro.com/geosys-api/#get-started).
+Use of this project requires valids credentials from the &ltgeosys/&gt platform . If you need to get trial access, please register [here](https://earthdailyagro.com/geosys-api/#get-started).
 This project is using .Net Core 6.0
 
 ### Installation
