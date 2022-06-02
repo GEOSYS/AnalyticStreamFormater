@@ -76,12 +76,14 @@
 
 EarthDaily Agro is the agricultural analysis division of EartDaily Analytics. Learn more about Earth Daily at [EarthDaily Analytics | Satellite imagery & data for agriculture, insurance, surveillance](https://earthdaily.com/).  EarthDaily Agro uses satellite imaging to provide advanced analytics to mitigate risk and increase efficiencies – leading to more sustainable outcomes for the organizations and people who feed the planet.
 <p align="center">
-  <a href=https://earthdailyagro.com/geosys/>
-    <img src=https://earthdailyagro.com/wp-content/uploads/2022/01/new-logo.png alt="Logo" width="400">
+  <a href="https://earthdailyagro.com/geosys/">
+    <img src="https://earthdailyagro.com/wp-content/uploads/2022/01/new-logo.png" alt="Logo" width="400">
   </a>
 </p>
 
+ <p align="left">
 Throught our &ltgeosys/&gt platform, we make geospatial analytics easily accessible for you to be browsed or analyzed, within our cloud or within your own environment. We provide developers and data scientists both flexibility and extensibility with analytic ready data and digital agriculture ready development blocks. We empower your team to enrich your systems with information at the field, regional or continent level via our API or Apps.
+</p>
 
 We have a team of experts around the world that understand local crops and ag industry, as well as advanced analytics to support your business.
 
